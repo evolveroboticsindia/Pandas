@@ -1,0 +1,181 @@
+student_id,student_name,course,category,city,mode,enrollment_date,completion_date,fee,discount_pct,rating,status
+1001,fathima iqbal,ROS Basics,Robotics,COIMBATORE,Offline,2024-02-16,2024-04-24,8971,15.0,5.0,Completed
+1002,  Jithin Sasi  ,Deep Learning Foundations,AI/ML,COIMBATORE,Offline,2024-07-19,,11590,0.0,3.1,Dropped
+1003,midhun nair,Deep Learning Foundations,AI/ML,Kozhikode,Offline,2025-03-22,,10830,5.0,,Ongoing
+1004,Jithin Nair,ROS Basics,Robotics,Thrissur,Offline,2025-02-24,2025-04-10,8433,0.0,3.1,Completed
+1005,Jithin Roy,Computer Vision with OpenCV,AI/ML,Chennai,Offline,2024-08-09,2024-09-20,12091,0.0,3.9,Completed
+1006,SARATH ROY,IoT with ESP32,Embedded,Bangalore,Offline,2024-12-27,2025-01-27,8165,0.0,4.4,Completed
+1007,PARVATHY CHANDRAN,Deep Learning Foundations,AI/ML,Thrissur,Online,2025-04-29,,11076,0.0,,Ongoing
+1008,Vivek Varma,Python for Robotics,Robotics,Kochi,Offline,2025-02-25,,8829,15.0,,Ongoing
+1009,neha das,Data Science with Python,Data Science,Kozhikode,Online,2024-05-12,,8729,5.0,,Ongoing
+1010,  Nandana Mohan  ,Computer Vision with OpenCV,AI/ML,Online,Online,2024-12-08,2025-01-03,11618,0.0,3.6,Completed
+1011,Sreelakshmi Kumar,Machine Learning Bootcamp,Data Science,Bangalore,Online,2025-06-20,2025-09-07,10211,0.0,3.1,Completed
+1012,anagha kumar,Embedded C Fundamentals,Embedded,Online,Online,2024-09-29,,8067,5.0,,Ongoing
+1013,KAVYA CHANDRAN,Embedded C Fundamentals,Embedded,Chennai,Online,2024-02-27,,6680,5.0,,Ongoing
+1014,Aleena Varma,Data Science with Python,Data Science,Online,Online,2024-03-23,,9491,5.0,,Ongoing
+1015,MIDHUN RAJ,Arduino Bootcamp,Embedded,Kozhikode,Offline,2024-07-14,2024-08-26,6736,,4.9,Completed
+1016,ATHIRA ROY,Machine Learning Bootcamp,Data Science,Kochi,Offline,2024-05-22,,10057,5.0,,Ongoing
+1017,  Jithin Krishnan  ,Python for Robotics,Robotics,COIMBATORE,Offline,2024-03-09,2024-04-29,9117,0.0,3.6,Completed
+1018,Akhil Das,Python for Robotics,Robotics,Kochi,Online,2025-01-23,2025-03-05,8754,10.0,4.2,Completed
+1019,Divya Nair,ROS Basics,Robotics,Kochi,Online,2024-04-06,2024-05-30,8855,10.0,3.3,Completed
+1020,  Arjun Iqbal  ,Machine Learning Bootcamp,Data Science,Online,Online,2025-06-18,2025-08-17,9089,,4.2,Completed
+1021,ANJALI KUMAR,ROS Basics,Robotics,Kochi,Online,2024-02-14,2024-04-20,8481,10.0,4.9,Completed
+1022,Neha Das,Machine Learning Bootcamp,Data Science,Online,Online,2024-06-28,2024-09-15,9377,20.0,3.0,Completed
+1023,anjali warrier,Embedded C Fundamentals,Embedded,Chennai,Offline,2024-06-19,,6717,0.0,,Ongoing
+1024,nikhil roy,Computer Vision with OpenCV,AI/ML,Online,Online,2025-02-19,2025-04-23,12332,0.0,3.5,Completed
+1025,meera mohan,IoT with ESP32,Embedded,Chennai,Offline,2024-09-05,2024-11-20,7769,10.0,4.9,Completed
+1026,ANAGHA PANICKER,STM32 Embedded Systems,Embedded,Online,Online,2024-04-07,2024-05-08,8438,20.0,3.9,Completed
+1027,gopika nair,Deep Learning Foundations,AI/ML,Thrissur,Online,2025-04-27,2025-06-18,11131,15.0,4.5,Completed
+1028,Kavya Salim,Python for Robotics,Robotics,Kochi,Offline,2024-07-24,,8024,0.0,,Dropped
+1029,Fathima Chandran,Embedded C Fundamentals,Embedded,Kochi,Online,2024-07-17,,7698,0.0,,Dropped
+1030,GOPIKA IQBAL,STM32 Embedded Systems,Embedded,COIMBATORE,Offline,2024-08-22,2024-09-21,7058,15.0,3.5,Completed
+1031,  Arjun Jose  ,Machine Learning Bootcamp,Data Science,Online,Online,2025-05-15,2025-07-22,10228,15.0,3.4,Completed
+1032,vivek nair,Deep Learning Foundations,AI/ML,kochi,Online,2024-03-07,,12446,5.0,,Dropped
+1033,vishnu sasi,IoT with ESP32,Embedded,Online,Online,2024-10-08,,7072,10.0,,Dropped
+1034,Meera George,Embedded C Fundamentals,Embedded,Kochi,Online,2025-02-08,,7338,20.0,3.3,Dropped
+1035,kavya das,Computer Vision with OpenCV,AI/ML,Thrissur,Online,2024-12-24,,10718,15.0,,Ongoing
+1036,MIDHUN RAJ,Data Science with Python,Data Science,Kochi,Offline,2025-05-18,,10235,5.0,,Ongoing
+1037,Arjun Salim,ROS Basics,Robotics,kochi,Offline,2025-06-03,2025-08-22,8037,15.0,3.5,Completed
+1038,Nikhil Chandran,STM32 Embedded Systems,Embedded,kochi,Offline,2024-02-05,2024-03-21,6792,0.0,4.6,Completed
+1039,Reshma Pillai,STM32 Embedded Systems,Embedded,Online,Online,2024-03-30,2024-05-29,6807,0.0,3.2,Completed
+1040,  Aleena Nair  ,Embedded C Fundamentals,Embedded,Thrissur,Online,2024-08-19,,7682,5.0,,Ongoing
+1041,Vivek Thomas,Data Science with Python,Data Science,Kochi,Offline,2025-03-04,2025-05-22,10278,0.0,3.4,Completed
+1042,nikhil george,STM32 Embedded Systems,Embedded,COIMBATORE,Online,2024-01-27,2024-04-20,7547,20.0,3.2,Completed
+1043,ARJUN NAIR,STM32 Embedded Systems,Embedded,Kozhikode,Online,2025-03-28,,8187,15.0,3.0,Dropped
+1044,divya george,Computer Vision with OpenCV,AI/ML,Kochi,Online,2025-03-22,2025-05-18,12167,5.0,4.7,Completed
+1045,midhun roy,Machine Learning Bootcamp,Data Science,Bangalore,Online,2024-03-16,2024-04-16,9333,5.0,3.5,Completed
+1046,sooraj salim,IoT with ESP32,Embedded,COIMBATORE,Online,2024-04-08,2024-06-15,7841,5.0,4.9,Completed
+1047,RESHMA IQBAL,ROS Basics,Robotics,Online,Online,2025-06-02,,9197,20.0,,Ongoing
+1048,Neha Sasi,Arduino Bootcamp,Embedded,Kozhikode,Online,2024-04-05,2024-06-15,7506,0.0,4.4,Completed
+1049,nandana jose,Arduino Bootcamp,Embedded,Kozhikode,Offline,2025-01-26,2025-03-23,8371,,3.3,Completed
+1050,SARATH CHANDRAN,Data Science with Python,Data Science,COIMBATORE,Offline,2025-06-22,,10090,10.0,,Dropped
+1051,rahul nair,Arduino Bootcamp,Embedded,kochi,Online,2024-03-10,2024-05-08,7858,15.0,3.9,Completed
+1052,Sooraj Panicker,Data Science with Python,Data Science,COIMBATORE,Online,2024-11-19,,10071,0.0,,Dropped
+1053,arjun das,Computer Vision with OpenCV,AI/ML,COIMBATORE,Offline,2025-02-22,,11961,20.0,,Ongoing
+1054,Sreelakshmi Chandran,Arduino Bootcamp,Embedded,Bangalore,Offline,2024-07-15,2024-08-25,6815,,3.3,Completed
+1055,neha kumar,IoT with ESP32,Embedded,kochi,Offline,2024-04-05,,7605,5.0,2.2,Dropped
+1056,  Rohan Jose  ,Computer Vision with OpenCV,AI/ML,Thrissur,Offline,2024-08-16,,10736,10.0,1.3,Dropped
+1057,anjali roy,Python for Robotics,Robotics,Kozhikode,Online,2025-01-25,2025-04-12,8130,0.0,3.9,Completed
+1058,Midhun Sasi,Computer Vision with OpenCV,AI/ML,Kochi,Offline,2024-02-29,,12055,0.0,1.7,Dropped
+1059,Nandana Roy,Python for Robotics,Robotics,Kozhikode,Online,2024-12-17,2025-02-22,9294,0.0,3.1,Completed
+1060,Midhun Pillai,Computer Vision with OpenCV,AI/ML,Thrissur,Online,2024-01-08,,12321,0.0,,Ongoing
+1061,  Anjali Menon  ,Python for Robotics,Robotics,Thrissur,Offline,2025-06-13,2025-08-28,7989,20.0,4.7,Completed
+1062,Rahul Jose,Embedded C Fundamentals,Embedded,Kochi,Offline,2025-01-11,,7393,0.0,,Ongoing
+1063,  Rahul Pillai  ,Arduino Bootcamp,Embedded,Online,Online,2024-10-18,,7990,20.0,,Ongoing
+1064,Midhun Varma,Computer Vision with OpenCV,AI/ML,Kozhikode,Online,2024-01-09,,11041,,,Ongoing
+1065,jithin george,Python for Robotics,Robotics,Kozhikode,Offline,2024-01-03,,7584,0.0,1.4,Dropped
+1066,PARVATHY VARMA,STM32 Embedded Systems,Embedded,Online,Online,2024-09-04,,7008,10.0,,Ongoing
+1067,  Rohan Kumar  ,Machine Learning Bootcamp,Data Science,Online,Online,2024-10-19,2024-11-29,9014,,4.4,Completed
+1068,  Rohan Varma  ,ROS Basics,Robotics,Online,Online,2025-01-08,2025-02-25,9446,0.0,3.2,Completed
+1069,MEERA NAIR,Arduino Bootcamp,Embedded,COIMBATORE,Offline,2024-11-25,,8442,5.0,,Ongoing
+1070,  Kavya Chandran  ,STM32 Embedded Systems,Embedded,Online,Online,2024-11-20,2025-01-01,7454,0.0,3.8,Completed
+1071,athira nair,IoT with ESP32,Embedded,Online,Online,2024-11-14,,7904,15.0,,Ongoing
+1072,  Divya Thomas  ,Computer Vision with OpenCV,AI/ML,Chennai,Offline,2024-04-16,,11362,5.0,,Ongoing
+1073,Sidharth Sasi,Computer Vision with OpenCV,AI/ML,Online,Online,2025-04-23,,11037,0.0,2.3,Dropped
+1074,Parvathy Sasi,IoT with ESP32,Embedded,COIMBATORE,Online,2024-03-03,2024-05-22,8183,0.0,3.1,Completed
+1075,NEHA THOMAS,Embedded C Fundamentals,Embedded,Kochi,Online,2024-02-05,2024-04-16,7912,5.0,4.7,Completed
+1076,  Nandana Bose  ,Machine Learning Bootcamp,Data Science,Kozhikode,Offline,2024-03-05,2024-04-29,10416,15.0,5.0,Completed
+1077,Kavya Thomas,Arduino Bootcamp,Embedded,kochi,Offline,2025-02-10,,7275,0.0,,Ongoing
+1078,Sneha Raj,Data Science with Python,Data Science,COIMBATORE,Online,2025-01-19,,8831,,,Ongoing
+1079,  Sidharth Mohan  ,Deep Learning Foundations,AI/ML,Thrissur,Offline,2024-12-17,2025-01-15,11157,15.0,3.8,Completed
+1080,FATHIMA MENON,ROS Basics,Robotics,COIMBATORE,Offline,2024-03-22,2024-04-28,9314,0.0,3.1,Completed
+1081,  Sarath Krishnan  ,ROS Basics,Robotics,Online,Online,2024-11-12,2024-12-02,7668,20.0,3.5,Completed
+1082,nandana george,Arduino Bootcamp,Embedded,COIMBATORE,Offline,2025-03-04,2025-05-16,7987,0.0,3.7,Completed
+1083,Neha Panicker,IoT with ESP32,Embedded,COIMBATORE,Offline,2025-02-19,,7109,20.0,3.3,Dropped
+1084,AKHIL SALIM,Data Science with Python,Data Science,COIMBATORE,Offline,2024-10-13,2024-11-03,9297,10.0,4.8,Completed
+1085,  Aravind Varma  ,IoT with ESP32,Embedded,Chennai,Online,2024-05-19,,6549,10.0,1.8,Dropped
+1086,NEHA MENON,Machine Learning Bootcamp,Data Science,kochi,Offline,2024-10-10,,9767,15.0,2.2,Dropped
+1087,rohan panicker,Computer Vision with OpenCV,AI/ML,Bangalore,Offline,2024-12-02,,12064,15.0,,Dropped
+1088,vivek kumar,Data Science with Python,Data Science,Online,Online,2024-12-19,,10142,15.0,1.7,Dropped
+1089,JITHIN GEORGE,Python for Robotics,Robotics,kochi,Online,2024-01-23,,9426,,,Ongoing
+1090,ATHIRA WARRIER,IoT with ESP32,Embedded,Online,Online,2024-05-10,,7323,0.0,,Ongoing
+1091,devika mohan,Deep Learning Foundations,AI/ML,Bangalore,Offline,2024-08-28,2024-11-13,12406,0.0,3.7,Completed
+1092,rahul panicker,Computer Vision with OpenCV,AI/ML,Kochi,Offline,2025-02-21,,11263,0.0,3.0,Dropped
+1093,rahul pillai,Machine Learning Bootcamp,Data Science,Thrissur,Online,2024-01-03,2024-02-10,9854,5.0,3.1,Completed
+1094,sneha warrier,Arduino Bootcamp,Embedded,Bangalore,Online,2024-08-12,2024-10-30,8305,10.0,4.7,Completed
+1095,ANAGHA KUMAR,Embedded C Fundamentals,Embedded,Bangalore,Offline,2025-04-23,2025-06-29,6669,15.0,3.7,Completed
+1096,kavya chandran,STM32 Embedded Systems,Embedded,Kozhikode,Online,2025-02-22,2025-04-11,6873,15.0,4.1,Completed
+1097,gopika bose,Python for Robotics,Robotics,Chennai,Online,2025-05-09,2025-06-22,7768,0.0,3.7,Completed
+1098,sreelakshmi raj,Python for Robotics,Robotics,Chennai,Online,2025-06-04,2025-08-07,9274,15.0,3.8,Completed
+1099,sidharth sasi,STM32 Embedded Systems,Embedded,Bangalore,Online,2025-04-29,2025-06-27,7150,10.0,4.8,Completed
+1100,  Gopika Bose  ,Data Science with Python,Data Science,Kozhikode,Offline,2024-01-14,2024-02-23,8854,20.0,3.6,Completed
+1101,MEERA MENON,Python for Robotics,Robotics,Online,Online,2024-05-15,,9083,5.0,,Ongoing
+1102,Nandana Das,STM32 Embedded Systems,Embedded,Online,Online,2024-12-30,,7843,15.0,,Ongoing
+1103,  Reshma Das  ,Embedded C Fundamentals,Embedded,Online,Online,2024-06-21,,6703,,,Ongoing
+1104,Parvathy Sasi,ROS Basics,Robotics,kochi,Online,2025-05-21,2025-08-16,7602,0.0,3.1,Completed
+1105,NIKHIL JOSE,Machine Learning Bootcamp,Data Science,Online,Online,2025-03-02,2025-04-12,9771,0.0,3.2,Completed
+1106,aravind warrier,ROS Basics,Robotics,Bangalore,Offline,2024-06-12,2024-07-18,8333,0.0,3.0,Completed
+1107,  Kavya Warrier  ,Python for Robotics,Robotics,kochi,Offline,2024-05-28,2024-07-21,8602,20.0,3.9,Completed
+1108,PARVATHY SASI,Machine Learning Bootcamp,Data Science,Chennai,Offline,2024-05-10,2024-07-29,9866,0.0,3.5,Completed
+1109,NIKHIL PANICKER,Python for Robotics,Robotics,COIMBATORE,Online,2025-04-11,2025-06-19,8138,,3.1,Completed
+1110,  Meera Nair  ,STM32 Embedded Systems,Embedded,kochi,Offline,2024-01-17,2024-03-26,7740,10.0,3.5,Completed
+1111,devika mohan,Deep Learning Foundations,AI/ML,COIMBATORE,Online,2024-05-31,,12206,0.0,,Ongoing
+1112,Karthik Iqbal,Deep Learning Foundations,AI/ML,Bangalore,Online,2024-05-14,2024-08-06,12318,5.0,4.2,Completed
+1113,Gopika Bose,Embedded C Fundamentals,Embedded,Chennai,Offline,2025-03-07,,7092,5.0,,Ongoing
+1114,DEVIKA GEORGE,Deep Learning Foundations,AI/ML,Kozhikode,Offline,2024-01-17,2024-03-03,10538,15.0,3.3,Completed
+1115,NANDANA BOSE,Computer Vision with OpenCV,AI/ML,Thrissur,Online,2024-03-08,2024-05-29,12052,15.0,3.3,Completed
+1116,  Meera Nair  ,Computer Vision with OpenCV,AI/ML,Online,Online,2024-03-06,2024-06-03,11606,10.0,3.0,Completed
+1117,  Gopika Salim  ,Data Science with Python,Data Science,Thrissur,Online,2025-04-20,2025-05-21,9743,0.0,3.5,Completed
+1118,  Midhun Mohan  ,Machine Learning Bootcamp,Data Science,Chennai,Offline,2025-06-11,2025-08-28,8812,20.0,4.2,Completed
+1119,DEVIKA CHANDRAN,Arduino Bootcamp,Embedded,Kozhikode,Online,2024-10-25,2025-01-05,7855,10.0,4.5,Completed
+1120,anagha iqbal,STM32 Embedded Systems,Embedded,kochi,Online,2025-05-14,2025-07-09,7216,5.0,4.6,Completed
+1121,  Sooraj Panicker  ,Computer Vision with OpenCV,AI/ML,Thrissur,Offline,2024-08-01,,11437,,,Ongoing
+1122,  Meera Krishnan  ,Arduino Bootcamp,Embedded,kochi,Offline,2025-04-08,,7185,15.0,,Dropped
+1123,Athira George,Arduino Bootcamp,Embedded,Chennai,Online,2024-10-06,,7805,15.0,,Ongoing
+1124,aleena panicker,ROS Basics,Robotics,kochi,Offline,2025-05-03,,7506,15.0,1.2,Dropped
+1125,  Devika Das  ,Machine Learning Bootcamp,Data Science,Online,Online,2025-06-17,,9254,20.0,,Ongoing
+1126,divya salim,IoT with ESP32,Embedded,Chennai,Offline,2024-11-04,2025-01-03,7651,5.0,4.2,Completed
+1127,  Sidharth Nair  ,IoT with ESP32,Embedded,Chennai,Online,2024-07-31,2024-09-12,6825,0.0,4.4,Completed
+1128,anjali jose,Machine Learning Bootcamp,Data Science,kochi,Online,2024-09-12,,10007,0.0,,Dropped
+1129,GOPIKA VARMA,Data Science with Python,Data Science,Kozhikode,Online,2024-09-02,2024-10-10,8679,15.0,4.0,Completed
+1130,SIDHARTH ROY,Deep Learning Foundations,AI/ML,kochi,Online,2024-05-16,2024-06-26,12029,,4.8,Completed
+1131,arjun jose,STM32 Embedded Systems,Embedded,Chennai,Offline,2024-11-13,2024-12-08,6944,0.0,3.6,Completed
+1132,Neha Chandran,Computer Vision with OpenCV,AI/ML,Kozhikode,Online,2024-10-19,2024-11-13,11006,20.0,3.3,Completed
+1133,aravind mohan,Computer Vision with OpenCV,AI/ML,Kochi,Online,2025-04-02,2025-05-17,10560,0.0,4.5,Completed
+1134,Parvathy George,ROS Basics,Robotics,kochi,Online,2025-04-28,2025-06-13,8029,0.0,4.7,Completed
+1135,  Rohan Kumar  ,ROS Basics,Robotics,kochi,Online,2025-04-19,,8920,10.0,1.8,Dropped
+1136,ALEENA RAJ,Machine Learning Bootcamp,Data Science,Bangalore,Online,2024-01-20,,10380,5.0,2.3,Dropped
+1137,MIDHUN SASI,Data Science with Python,Data Science,Thrissur,Online,2024-07-14,2024-08-12,8678,,4.9,Completed
+1138,  Athira Pillai  ,IoT with ESP32,Embedded,Online,Online,2025-06-02,2025-07-06,7260,,3.1,Completed
+1139,ARJUN MENON,STM32 Embedded Systems,Embedded,Kozhikode,Online,2024-09-08,2024-11-04,7563,,3.4,Completed
+1140,Meera Chandran,Computer Vision with OpenCV,AI/ML,Chennai,Online,2025-03-29,,10805,0.0,,Dropped
+1141,  Reshma Thomas  ,Computer Vision with OpenCV,AI/ML,Kozhikode,Offline,2024-01-30,,12001,0.0,,Ongoing
+1142,devika panicker,ROS Basics,Robotics,Bangalore,Offline,2025-02-11,,7504,0.0,,Dropped
+1143,Aravind Das,Embedded C Fundamentals,Embedded,COIMBATORE,Online,2025-03-01,2025-05-04,7795,15.0,4.8,Completed
+1144,VISHNU BOSE,IoT with ESP32,Embedded,Kozhikode,Offline,2024-11-19,2025-01-20,8400,0.0,3.7,Completed
+1145,Fathima Roy,Deep Learning Foundations,AI/ML,Online,Online,2024-01-22,2024-03-02,12284,,4.5,Completed
+1146,Midhun Sasi,Arduino Bootcamp,Embedded,kochi,Online,2024-07-14,2024-10-08,7288,10.0,4.5,Completed
+1147,kavya pillai,Data Science with Python,Data Science,Online,Online,2025-01-26,2025-04-19,9305,5.0,4.3,Completed
+1148,SREELAKSHMI DAS,Machine Learning Bootcamp,Data Science,kochi,Offline,2024-02-19,,8762,15.0,,Ongoing
+1149,  Rohan Thomas  ,Deep Learning Foundations,AI/ML,Chennai,Offline,2024-04-16,,12379,0.0,,Ongoing
+1150,nandana panicker,Embedded C Fundamentals,Embedded,kochi,Offline,2024-05-28,2024-07-06,7067,,4.3,Completed
+1151,Jithin Raj,Data Science with Python,Data Science,Online,Online,2025-01-13,,9115,0.0,1.6,Dropped
+1152,Divya Bose,Data Science with Python,Data Science,Chennai,Online,2025-01-05,2025-03-03,9300,10.0,4.8,Completed
+1153,  Sreelakshmi Kumar  ,STM32 Embedded Systems,Embedded,Thrissur,Offline,2024-06-26,2024-08-07,7385,0.0,4.0,Completed
+1154,  Divya Chandran  ,ROS Basics,Robotics,Online,Online,2025-05-30,,9347,,,Ongoing
+1155,Anjali Bose,Computer Vision with OpenCV,AI/ML,Bangalore,Offline,2024-02-26,2024-04-19,11712,0.0,3.5,Completed
+1156,ROHAN THOMAS,ROS Basics,Robotics,Online,Online,2024-07-14,2024-08-31,8081,0.0,4.6,Completed
+1157,  Nandana Salim  ,Python for Robotics,Robotics,Chennai,Online,2025-03-06,,7969,15.0,,Ongoing
+1158,  Meera George  ,Embedded C Fundamentals,Embedded,Chennai,Online,2025-06-23,2025-09-17,6807,10.0,3.8,Completed
+1159,KARTHIK PANICKER,STM32 Embedded Systems,Embedded,Kozhikode,Online,2025-05-21,,6775,0.0,,Ongoing
+1160,  Athira Warrier  ,Arduino Bootcamp,Embedded,COIMBATORE,Online,2025-01-18,2025-04-06,7512,10.0,3.8,Completed
+1161,neha krishnan,Computer Vision with OpenCV,AI/ML,Kozhikode,Online,2025-06-19,,11866,,1.2,Dropped
+1162,ALEENA THOMAS,Machine Learning Bootcamp,Data Science,COIMBATORE,Online,2024-08-17,2024-10-01,9844,15.0,3.7,Completed
+1163,Sneha Chandran,Deep Learning Foundations,AI/ML,Online,Online,2024-08-12,2024-09-17,11997,5.0,4.6,Completed
+1164,DEVIKA WARRIER,Embedded C Fundamentals,Embedded,Online,Online,2025-04-19,2025-05-31,6807,0.0,4.1,Completed
+1165,  Sooraj Nair  ,Python for Robotics,Robotics,Kozhikode,Online,2025-04-04,2025-06-17,8993,0.0,4.3,Completed
+1166,  Vivek Menon  ,Python for Robotics,Robotics,Thrissur,Online,2025-03-20,2025-05-10,9138,5.0,3.2,Completed
+1167,neha bose,Machine Learning Bootcamp,Data Science,Chennai,Offline,2024-04-18,,9508,5.0,,Ongoing
+1168,VISHNU SALIM,Machine Learning Bootcamp,Data Science,Kozhikode,Online,2024-12-16,2025-02-26,9174,0.0,3.2,Completed
+1169,Sarath Menon,Python for Robotics,Robotics,Chennai,Offline,2025-06-18,2025-09-15,8807,5.0,3.9,Completed
+1170,Sarath Warrier,STM32 Embedded Systems,Embedded,Online,Online,2025-04-16,2025-06-18,6941,0.0,4.3,Completed
+1171,  Nikhil Bose  ,Data Science with Python,Data Science,Kochi,Offline,2024-07-26,,10157,0.0,,Ongoing
+1172,Sooraj Menon,Arduino Bootcamp,Embedded,Chennai,Online,2024-11-30,2025-01-07,6707,10.0,4.5,Completed
+1173,VIVEK VARMA,Computer Vision with OpenCV,AI/ML,Bangalore,Online,2024-10-08,2024-11-28,11628,0.0,4.4,Completed
+1174,  Sreelakshmi Menon  ,Machine Learning Bootcamp,Data Science,Online,Online,2025-04-28,,10056,20.0,,Ongoing
+1175,SARATH NAIR,Deep Learning Foundations,AI/ML,COIMBATORE,Offline,2025-05-20,2025-07-02,10930,0.0,4.2,Completed
+1176,  Vishnu Roy  ,Machine Learning Bootcamp,Data Science,Thrissur,Online,2024-08-11,2024-09-14,8655,20.0,3.4,Completed
+1177,MEERA VARMA,IoT with ESP32,Embedded,Chennai,Online,2024-01-30,2024-03-13,7029,0.0,4.2,Completed
+1178,  Vivek Warrier  ,STM32 Embedded Systems,Embedded,Kozhikode,Online,2025-02-10,2025-03-09,7314,20.0,4.2,Completed
+1179,Arjun Jose,Embedded C Fundamentals,Embedded,Thrissur,Offline,2024-10-11,,6919,0.0,,Dropped
+1180,Kavya Das,Python for Robotics,Robotics,Online,Online,2025-05-09,2025-07-24,8152,5.0,5.0,Completed
